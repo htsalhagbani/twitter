@@ -8,6 +8,7 @@ import Profile from './Profile';
 import Signup from './Signup';
 import Login from './Login';
 import Like from './like';
+import Like1 from './Like1';
 
 
   const router = createBrowserRouter([
@@ -26,7 +27,7 @@ import Like from './like';
       },
       {
         path: "/Like",
-        element: <Like/>,
+        element: <Like1/>,
       },
     {
         path: "/Profile",
