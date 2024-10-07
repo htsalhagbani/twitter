@@ -7,7 +7,6 @@ import Home from './Home';
 import Profile from './Profile';
 import Signup from './Signup';
 import Login from './Login';
-import Like from './like';
 import Like1 from './Like1';
 
 
