@@ -8,7 +8,7 @@ import axios from 'axios';
 
 
 
-function Like() {
+function like() {
     const navigate=useNavigate();
     const[tweet,settweet]=useState([]);
 
@@ -217,4 +217,4 @@ function Like() {
   )
 }
 
-export default Like
+export default like;

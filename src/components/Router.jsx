@@ -9,7 +9,9 @@ import Signup from './Signup';
 import Login from './Login';
 import Like from './like';
 
+
   const router = createBrowserRouter([
+    
     {
       path: "/",
       element: <Signup/>,
